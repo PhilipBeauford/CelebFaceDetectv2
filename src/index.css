@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Varela Round', 'monospace', 'courier new', 'courier';
+  background: linear-gradient(89deg, #104ec0 0%, #04d7de 100%);
+}
+
+
+button {
+  cursor: pointer;
+}
