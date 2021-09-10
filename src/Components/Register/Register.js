@@ -44,9 +44,7 @@ onSubmitSignIn = () => {
        this.props.onRouteChange('home'); 
     }
   })
-  
 }
-
 
 
   render() 
